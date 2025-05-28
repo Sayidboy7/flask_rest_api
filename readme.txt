@@ -12,7 +12,7 @@
 -- needed tools : Api, Resource, reqparse
 
 -- needed frameworks : Flask, FlaskRestful, CORS
--- Ai to help : Grok, OpenAi - Chatgpt, Cloude, Queen, Deepseek
+-- Ai to help : Grok, OpenAi - Chatgpt, Cloude, Queen, Deepseek, Gemini #also great
 --
 
 
